@@ -1,2 +1,4 @@
 #!/bin/bash
 -rwxr-x-wx
+#!/bin/bash
+chmod 753
